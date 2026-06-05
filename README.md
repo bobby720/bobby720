@@ -156,27 +156,6 @@ public class EswaraSai {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<!-- GitHub Stats -->
-
-<h2 align="center">📊 GitHub Statistics</h2>
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bobby720&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF&count_private=true&include_all_commits=true" />
-
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=bobby720&theme=tokyonight&hide_border=true&background=0D1117&stroke=00BFFF&ring=00BFFF&currStreakLabel=00BFFF" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobby720&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=FFFFFF" />
-
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=bobby720&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=00BFFF&line=6A5ACD&point=FFFFFF&area=true&area_color=00BFFF" />
-
-</div>
 
 <!-- Divider -->
 
@@ -186,7 +165,7 @@ public class EswaraSai {
 <!-- Snake -->
 
 <div align="center">
-
+<h2>🐍The Green Feast</h2>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bobby720/bobby720/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bobby720/bobby720/output/github-snake.svg" />
