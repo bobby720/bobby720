@@ -45,7 +45,7 @@
 public class EswaraSai {
        String role = "AI Application Architect Enthusiast";
        String location = "India 🇮🇳";
-       String currentFocus = "AI Product Development 🤖";
+       String currentFocus = "Full Stack Java Development ";
        String[] learning =
                        {
                        "JavaScript",
