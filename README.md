@@ -4,7 +4,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:6A5ACD&height=200&section=header&text=Eswara%20Sai&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-<!-- Typing Animation  -->
+<!-- Typing Animation -->
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=800&height=100&lines=AI+Application+Architect+Enthusiast+🚀;Future+Full+Stack+Java+Developer+💻;Turning+Ideas+Into+Products+⚡;Open+Source+Learner+🔥;Building+AI+Powered+Solutions+🤖" alt="Typing SVG" />
 
