@@ -1,5 +1,5 @@
 <div align="center">
-
+ 
 <!-- Animated Header -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:6A5ACD&height=200&section=header&text=Eswara%20Sai&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35"/>
