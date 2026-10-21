@@ -27,10 +27,6 @@
 
 ## Transmission
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=bobby720&theme=midnight" alt="bobby720 social visual" />
-</p>
 
 <p align="center"><a href="https://github.com/bobby720">GitHub</a></p>
 
-<p align="center"><sub>Eswarasai Marre · Repo galaxy generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
