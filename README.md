@@ -25,8 +25,11 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
 </p>
 
-## Transmission
+## Activity
 
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=bobby720&theme=midnight" alt="bobby720 activity visual" />
+</p>
 
 <p align="center"><a href="https://github.com/bobby720">GitHub</a></p>
 
